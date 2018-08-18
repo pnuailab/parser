@@ -26,6 +26,7 @@
 
 ## 개발환경
 - IDE: Microsoft Visual Studio Community 2017
+  - 워크로드에서 'C++를 사용한 데스크톱 개발'이 포함되어야 
 - 언어: C++
 
 ## 프로젝트 구성
