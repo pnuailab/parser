@@ -36,10 +36,10 @@
 - 구문 분석기 – 소스코드
 
 ## 프로젝트 빌드/실행 방법
-1. 본 저장소에서 '[Develop]KLParser3.4.0(2019.01.31).zip'를 내려받은 후 압축해제
+1. 본 저장소에서 '[Develop]KLParser3.4.1(2019.02.28).zip'를 내려받은 후 압축해제
   - 다운로드 속도 문제로 본 저장소에서 소스코드만 포함
-2. 아래 경로에서 '[Develop]KLParser3.4.0(2019.01.31)_exe.zip'를 내려받은 후 1에 덮어쓰기
-  - https://drive.google.com/file/d/1c8-deLdeAKZABIqlENrmgq_V0KmKb2xh/view?usp=sharing
+2. 아래 경로에서 '[Develop]KLParser3.4.1(2019.02.28)_exe.zip'를 내려받은 후 1에 덮어쓰기
+  - https://drive.google.com/file/d/11rB0xcyTUBMEpirjo7Orr2u5Me592Wmi/view?usp=sharing
   - 프로그램 실행만 원하시면 2번만 진행
 3. 관리자 권한으로 VS 2017 실행 후 1의 솔루션 파일 열기
   - 내부 결과를 레지스트리에 저장하기 때문에 관리자 권한 필요
