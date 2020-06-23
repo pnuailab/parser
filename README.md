@@ -46,5 +46,5 @@
 4. 'Parser4CSharp'를 시작 프로젝트로 설정 후 빌드/실행
 
 ## 문의
-이메일 : kst8798@gmail.com(연구원) / aidocu@pusan.ac.kr(연구실)
+- 이메일 : kst8798@gmail.com(연구원) / aidocu@pusan.ac.kr(연구실)
 
