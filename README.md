@@ -28,7 +28,7 @@
 - IDE: Microsoft Visual Studio Community 2017
   - 워크로드에서 'C++를 사용한 데스크톱 개발' 포함
   - 개별 구성요소에서 '컴파일러, 빌드 도구 및 런타임 > Windows 유니버설 CRT SDK' 포함
-- 언어: C++
+- 언어: C++ and C#
 
 ## 프로젝트 구성
 - 형태소 분석기 – 동적 라이브러리(PnuNlpCore.dll)
